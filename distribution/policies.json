@@ -54,8 +54,8 @@
             ]
         },
         "SupportMenu": {
-            "Title": "LibreWolf Issue Tracker",
-            "URL": "https://codeberg.org/librewolf/issues"
+            "Title": "Yikwid Browser Issue Tracker",
+            "URL": "https://github.com/yikwid/yikwid-browser/issues"
         }
     }
 }
