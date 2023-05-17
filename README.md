@@ -1,11 +1,11 @@
-# LibreWolf settings
+# Yikwid Browser settings
 
-LibreWolf settings for all platforms.
+Yikwid Browser settings for all platforms.
 
 we encourage users to find **their own setup** and to use our default configuration as something to build on top of. this is now easier thanks to the [overrides](https://librewolf.net/docs/settings/#where-do-i-find-my-librewolfoverridescfg).
 
 ## Useful links
-- [website](https://librewolf.net/): read the docs.
+- [website](https://yikwid.net/): read the docs.
 - [faq](https://librewolf.net/docs/faq/): for any question you might have, and to help you creating your own pref file.
 - [all releases](https://gitlab.com/librewolf-community/browser).
 - [issue tracker](https://gitlab.com/librewolf-community/settings/-/issues).
