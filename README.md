@@ -2,7 +2,7 @@
 
 Yikwid Browser settings for all platforms.
 
-we encourage users to find **their own setup** and to use our default configuration as something to build on top of. this is now easier thanks to the [overrides](https://librewolf.net/docs/faq/#where-do-i-find-my-librewolfoverridescfg).
+we encourage users to find **their own setup** and to use our default configuration as something to build on top of. this is now easier thanks to the [overrides](https://librewolf.net/docs/settings/#where-do-i-find-my-librewolfoverridescfg).
 
 ## Useful links
 - [website](https://yikwid.net/): read the docs.
