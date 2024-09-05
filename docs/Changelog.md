@@ -1,6 +1,11 @@
 This changelog will be used from now on to document changes in a precise manner, with a list of changes for each setting version.
 Setting versions are documented using the pref `librewolf.cfg.version`, available in about:config.
 
+
+# 8.2
+
+- v7.10 was the last version by @fxbrit, at Arkenfox v119. This version ships with LibreWolf v113.0-1.
+
 # 7.10
 
 **base librewolf version**: 122.x
