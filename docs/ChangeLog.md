@@ -3,14 +3,12 @@ Setting versions are documented using the pref `librewolf.cfg.version`, availabl
 
 # 8.4
 
-
 Changes to librewolf.cfg:
 
 DoH:
 
-* Added the extra settings suggestions by Acideburn, thanks for that comment and code snippets.
-* Changed the 'reasonable default' to Quad9 (malware blocking).
-* Used the backtick JS string to get the doh-rollout list human readable, and removed MozCloudflare from it.
+* Disable DoH by default. The short of it is that we can't decide for the user which DoH server is best to use.
+* Provide much better default for when DoH is enabled. Mostly contributed by @Acideburn.
 
 Other:
 
@@ -19,7 +17,7 @@ Other:
 
 To policies.json: 
 
-* Remove the DNSoverHTTP stuff from there as per Acideburn's find.
+* Remove the DNSoverHTTP stuff from there as per Acideburn's find. We now disable it more visibly from the config file instead.
 
 # 8.3
 
