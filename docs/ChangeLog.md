@@ -3,6 +3,7 @@ Setting versions are documented using the pref `librewolf.cfg.version`, availabl
 # 8.5
 
 * Explicitly disable weather feed in new tab page (ticket #2048)
+* Handle google safebrowsing stuff, ticket #1879
 
 # 8.4
 
