@@ -1,5 +1,9 @@
 This changelog will be used from now on to document changes in a precise manner, with a list of changes for each setting version.
 Setting versions are documented using the pref `librewolf.cfg.version`, available in about:config.
+# 8.5
+
+* Explicitly disable weather feed in new tab page (ticket #2048)
+* Handle google safebrowsing stuff, ticket #1879
 
 # 8.4
 
